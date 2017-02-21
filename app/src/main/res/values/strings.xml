@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gridview</string>
+        <string name="para">This is a long para.
+        This is a long para.
+        This is a long para.
+        This is a long para.
+        This is a long para.
+    </string>
+</resources>
